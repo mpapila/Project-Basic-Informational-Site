@@ -1,6 +1,6 @@
 # Project-Basic-Informational-Site
 
-# Simple HTTP Server with HTML File Serving and 404 Handling
+## Simple HTTP Server with HTML File Serving and 404 Handling
 
 This project implements a basic HTTP server using Node.js, which serves HTML files and handles 404 errors by serving a custom 404 page.
 
